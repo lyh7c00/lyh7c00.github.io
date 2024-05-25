@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>There is no any black magic in computers</title>
+    <link href="/2024/03/20/There-is-no-black-magic-in-computers/"/>
+    <url>/2024/03/20/There-is-no-black-magic-in-computers/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>杂谈</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>杂谈</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="/2024/03/20/hello-world/"/>
+    <url>/2024/03/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>After the computer is powered on. The first program running is BIOS, which is<br>located on the ROM. BIOS will conduct hardware checks, initializes and established<br>interrupt vector tables. </p><p>After that, MBR(Master Boot Record) will be loaded into the memory, where CPU will<br>execute a jmp instruction. You guess what’s the address? Yes, that’s 0x7c00. The<br>reasons of 0x7c00 are diverse, but now you need konw the exciting stories begin after that.<br>So once you want to do something, just start it as soon as possible. You may see many different landscapes!</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
