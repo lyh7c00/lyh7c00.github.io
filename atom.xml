@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lyh&#39;s blog</title>
+  
+  <subtitle>jmp 0:0x7c00</subtitle>
+  <link href="https://lyh7c00.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lyh7c00.github.io/"/>
+  <updated>2024-06-02T14:49:40.000Z</updated>
+  <id>https://lyh7c00.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>笔记链接</title>
+    <link href="https://lyh7c00.github.io/2024/05/10/%E7%AC%94%E8%AE%B0%E9%93%BE%E6%8E%A5/"/>
+    <id>https://lyh7c00.github.io/2024/05/10/%E7%AC%94%E8%AE%B0%E9%93%BE%E6%8E%A5/</id>
+    <published>2024-05-10T11:49:40.000Z</published>
+    <updated>2024-06-02T14:49:40.000Z</updated>
+    
+    
+    <summary type="html">为了方便阅读和不断改进，用latex编写的相对系统的笔记</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://lyh7c00.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://lyh7c00.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>There is no any black magic in computers</title>
+    <link href="https://lyh7c00.github.io/2024/03/20/There-is-no-black-magic-in-computers/"/>
+    <id>https://lyh7c00.github.io/2024/03/20/There-is-no-black-magic-in-computers/</id>
+    <published>2024-03-20T10:13:09.000Z</published>
+    <updated>2024-03-20T10:13:09.000Z</updated>
+    
+    
+    <summary type="html">翁恺:在计算机里头没有任何黑魔法！所有的东西只不过我现在不知道而已</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://lyh7c00.github.io/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://lyh7c00.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://lyh7c00.github.io/2024/03/20/hello-world/"/>
+    <id>https://lyh7c00.github.io/2024/03/20/hello-world/</id>
+    <published>2024-03-20T03:34:10.479Z</published>
+    <updated>2024-05-25T08:39:05.368Z</updated>
+    
+    
+    <summary type="html">jmp 0:0x7c00</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>

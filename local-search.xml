@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>笔记链接</title>
+    <link href="/2024/05/10/%E7%AC%94%E8%AE%B0%E9%93%BE%E6%8E%A5/"/>
+    <url>/2024/05/10/%E7%AC%94%E8%AE%B0%E9%93%BE%E6%8E%A5/</url>
+    
+    <content type="html"><![CDATA[<p>目前撰写的笔记链接(将不断改进)：</p><ul><li><a href="https://lyh7c00.github.io/notebook/diy-os.pdf">Linux操作系统设计与实现</a></li><li><a href="https://lyh7c00.github.io/notebook/algorithm-design.pdf">算法设计</a></li><li><a href="https://lyh7c00.github.io/notebook/deep-learning.pdf">深度学习</a></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>There is no any black magic in computers</title>
+    <link href="/2024/03/20/There-is-no-black-magic-in-computers/"/>
+    <url>/2024/03/20/There-is-no-black-magic-in-computers/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>杂谈</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>杂谈</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="/2024/03/20/hello-world/"/>
+    <url>/2024/03/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>After the computer is powered on. The first program running is BIOS, which is<br>located on the ROM. BIOS will conduct hardware checks, initializes and established<br>interrupt vector tables. </p><p>After that, MBR(Master Boot Record) will be loaded into the memory, where CPU will<br>execute a jmp instruction. You guess what’s the address? Yes, that’s 0x7c00. The<br>reasons of 0x7c00 are diverse, but now you need konw the exciting stories begin after that.<br>So once you want to do something, just start it as soon as possible. You may see many different landscapes!</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
